@@ -1,14 +1,17 @@
 ---
 title: Paradigms to break before denial
-permalink: paradigms.html
-summary: "Multiple subjective paradigms affect our understanding of things, which has usually a number of incongruences. In order to learn something new, that could lie upon the fragile ground of mental incoherences, some old paradigms need to be broken. Then it is possible to learn. That's why new ideas are commonly rejected."
+tags: [toi]
 keywords:
+summary: "Multiple subjective paradigms affect our understanding of things, which has usually a number of incongruences. In order to learn something new, that could lie upon the fragile ground of mental incoherences, some old paradigms need to be broken. Then it is possible to learn. That's why new ideas are commonly rejected."
 sidebar: main
+permalink: paradigms.html
 toc: false
 folder: toi
-tags: [toi]
 ---
+
 ## Paradigms
+
+Paradigms you must break to understand new science...
 
 A lot of people tell that theories about systems are just silly. In my experience, most of them change their point of view after a long talk, where they just connect some wires. But in fact they don't get to understand or change opinion. What they do is just break some paradigms that were blocking their reasoning. Such is a very common problem. After breaking such paradigms, people start to get amazed with new ideas.
 

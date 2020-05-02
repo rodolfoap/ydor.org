@@ -6,32 +6,47 @@ entries:
   version: 
   folders:
 
-  - title: Overview
+  - title: Theory Of Interaction
     output: web, pdf
     folderitems:
 
     - title: Paradigms to break before denial...
       url: /paradigms.html
       output: web, pdf
-      type: homepage
 
     - title: What is interaction?
       url: /basics.html
       output: web, pdf
-      type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Videos, Lessons, Classnotes
+      url: /notes.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Nomenclature
+      url: /nomenclature.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Applications
+      url: /applications.html
       output: web, pdf
 
-    - title: Support
-      url: /mydoc_support.html
+    - title: FAQ
+      url: /faq.html
       output: web, pdf
+
+    - title: Blog Entries
+      url: /blog.html
+      output: web, pdf
+
+  - title: Books
+    output: web, pdf
+    folderitems:
+
+    - title: Theory Of Interaction
+      url: /book_toi.html
+      output: web, pdf
+
+    - title: El Ciclo YDOR
+      url: /book_ydor.html
+      output: web, pdf
+

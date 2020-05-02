@@ -5,8 +5,8 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
-      url: /news
+    - title: Blog
+      url: /blog
 
 #Topnav dropdowns
 topnav_dropdowns:
