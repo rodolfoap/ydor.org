@@ -12,7 +12,7 @@ site_title: Theory of Interaction
 company_name: Ydor.Org
 # this appears in the footer
 
-github_editme_path: rodolfoap/ydor.org/blob/master/
+# github_editme_path: rodolfoap/ydor.org/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
@@ -69,8 +69,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      comments: false
       search: true
       sidebar: home_sidebar
       topnav: topnav
@@ -82,15 +81,13 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      comments: false
       search: true
       sidebar: home_sidebar
       topnav: topnav
@@ -104,7 +101,7 @@ sidebars:
 - other
 
 # the description is used in the feed.xml file
-description: "You are visiting the website of the book Theory of Interaction (TOI). The book exposes the basic principles of interaction, something that Ludwig Von Bertalanffy, a remarkable contributor to the General Systems Theory (GST), defined as the basic problem in all fields."
+description: "You are visiting the website of the book Theory of Interaction (TOI). The book presents the basic principles of _interaction_, something that Ludwig Von Bertalanffy, a remarkable contributor to the General Systems Theory (GST), defined as the basic problem in all fields."
 
 # needed for sitemap.xml file only
 url: http://ydor.site
