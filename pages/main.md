@@ -20,4 +20,4 @@ _Interaction is nature's mechanism to create life (biologic life is just one for
 
 To know more about interaction, please visit this links: Interaction, Frequently Asked Questions and Nomenclature. Some examples of interaction can be found in [Applications](applications). You can also read about the effects of interaction on the environment and how you can produce a real effect on the environment (not just selecting the garbage and turning off the lights when you leave a room).
 
-The book can be partially read in the page Look Inside.... You can get the book following the Get It! link. You can also join the author to promote sane interaction in the world on the Contact page.
+The book can be partially read in the page Look Inside.... You can get the book following the Get It! link. You can also join the author to promote sane interaction in the world on the Contact page<span class="glyphicon glyphicon-info-sign" id="interaction" data-toggle="popover"></span>.
