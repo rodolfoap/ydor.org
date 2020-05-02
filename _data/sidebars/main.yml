@@ -1,0 +1,52 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 
+  version: 
+  folders:
+
+  - title: Theory Of Interaction
+    output: web, pdf
+    folderitems:
+
+    - title: Paradigms to break before denial...
+      url: /paradigms.html
+      output: web, pdf
+
+    - title: What is interaction?
+      url: /basics.html
+      output: web, pdf
+
+    - title: Videos, Lessons, Classnotes
+      url: /notes.html
+      output: web, pdf
+
+    - title: Nomenclature
+      url: /nomenclature.html
+      output: web, pdf
+
+    - title: Applications
+      url: /applications.html
+      output: web, pdf
+
+    - title: FAQ
+      url: /faq.html
+      output: web, pdf
+
+    - title: Blog Entries
+      url: /blog.html
+      output: web, pdf
+
+  - title: Books
+    output: web, pdf
+    folderitems:
+
+    - title: Theory Of Interaction
+      url: /book_toi.html
+      output: web, pdf
+
+    - title: El Ciclo YDOR
+      url: /book_ydor.html
+      output: web, pdf
+

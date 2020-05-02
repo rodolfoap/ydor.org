@@ -1,3 +1,6 @@
-* When merging, check this:
-	url: http://ydor.site
-	baseurl: /
+# Ydor.org
+
+Ydor.org website. See:
+
+* https://ydor.org
+* https://ydor.site (temporary)
