@@ -31,3 +31,7 @@ Ydor.org website. See:
 ## Layouts
 
 * See https://jekyllrb.com/docs/step-by-step/04-layouts/
+
+## Cheatsheets
+
+* See https://devhints.io/jekyll
