@@ -1,12 +1,12 @@
 ---
 title: Author
 permalink: author.html
-summary: "About the author."
 keywords:
 sidebar: main
 toc: false
 folder: toi
 tags: [toi]
+summary: "About the author."
 ---
 
 ## Rodolfo Alcazar Portillo

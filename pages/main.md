@@ -1,10 +1,10 @@
 ---
 title: "Theory of Interaction"
+permalink: index.html
 keywords: Main Site
 tags: [getting_started]
 sidebar: main
 toc: false
-permalink: index.html
 ---
 {% include welcome.html content="You are visiting the website of the book **Theory of Interaction (TOI)**. The book present the basic principles of **interaction**, something that _Ludwig Von Bertalanffy_, a remarkable contributor to the **General Systems Theory (GST)**, defined as _the basic problem in all fields_." %}
 
