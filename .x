@@ -3,8 +3,7 @@ execute(){
 }
 case "$1" in
 	e)
-		grep 'url.*html' _data/sidebars/main.yml|sed -r 's:.*/(.*).html:\1:' > .pages
-		vi -p $(sort .pages) _data/sidebars/main.yml _data/topnav.yml
+		vi -p pages/main.md pages/toi/{paradigms,basics,notes,nomenclature,applications,faq}.md _data/sidebars/main.yml _data/topnav.yml
 	;;
 	""|*)
 		execute
