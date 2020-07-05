@@ -1,22 +1,13 @@
 <footer>
             <div class="row">
                 <div class="col-lg-12 footer">
-                &copy;
-                {{ site.time | date: "%Y"  }}
-                {{site.company_name}}.
-                All rights reserved.
-                <br />
+                &copy; {{site.time|date: "%Y"}} {{site.company_name}} <img src="{{ "images/favicon.ico" }}" width="20" alt="Ydor.ORG"/> <br />
                 {% if page.last_updated %}
                     <span>Page last updated:</span>
                     {{page.last_updated}}
                     <br/>
                 {% endif %}
-                
-                Site last generated:
-                {{ site.time | date: "%b %-d, %Y"  }}<br />
-                <p>
-                    <img src="{{ "images/favicon.ico" }}" alt="Company logo"/>
-                </p>
+                <skip Site last generated: {{ site.time | date: "%b %-d, %Y"  }} /><br />
                 </div>
             </div>
 </footer>
