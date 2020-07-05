@@ -8,7 +8,7 @@ permalink: index.html
 ---
 {% include welcome.html content="You are visiting the website of the book **Theory of Interaction (TOI)**. The book present the basic principles of **interaction**, something that _Ludwig Von Bertalanffy_, a remarkable contributor to the **General Systems Theory (GST)**, defined as _the basic problem in all fields_." %}
 
-**Please start with this**: [The Theory Of Interaction in 6 Minutes](https://www.youtube.com/watch?v=O6npQhevzI0){:target="_blank"}. [Paradigms to crack before starting](paradigms). 
+**Please start with this**: [The Theory Of Interaction in 6 Minutes](https://www.youtube.com/watch?v=O6npQhevzI0){:target="blank"}. [Paradigms to crack before starting](paradigms).
 
 <img src="images/cover.png" style="max-width: 250px; float:left; margin-right:10px;" alt="Theory Of Interaction" height="42" width="42" /> _Why can you grab a pebble of rock with your fingers without **disintegrating** it? Which is the mechanism that permits the pebble to continue having **order, existence, persistence to time** and **reacting** properly to the interaction with your fingers? Does the pebble increase order or chaos when it **interacts** with water? What determines it to lose **integrity**? Is **reorganization** a natural consequence of **dissipation**? That is the subject of study of the **Theory of Interaction**. Its applications reach a multiple and wide scope_.
 
