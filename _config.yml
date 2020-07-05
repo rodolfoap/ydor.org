@@ -71,7 +71,7 @@ defaults:
       layout: "page"
       comments: false
       search: true
-      sidebar: home_sidebar
+      sidebar: main
       topnav: topnav
   -
     scope:
@@ -89,7 +89,7 @@ defaults:
       layout: "post"
       comments: false
       search: true
-      sidebar: home_sidebar
+      sidebar: main
       topnav: topnav
 
 sidebars:

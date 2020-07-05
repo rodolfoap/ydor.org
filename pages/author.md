@@ -19,4 +19,4 @@ Worked on multiple fields (independent researcher, musician with 30 years of pro
 * Software Engineering forum: [https://softwareengineering.stackexchange.com/users/320802/rodolfoap](https://softwareengineering.stackexchange.com/users/320802/rodolfoap){:target="blank"}
 * Linkedin: [https://www.linkedin.com/in/rodolfoap](https://www.linkedin.com/in/rodolfoap){:target="blank"}
 * Programming: [https://github.com/rodolfoap](https://github.com/rodolfoap){:target="blank"}
-* [CV](data/rodolfoap.pdf){:target="blank"}
+* [CV](https://docs.google.com/viewer?url=https://ydor.org/data/rodolfoap.pdf){:target="blank"}
