@@ -23,3 +23,7 @@ Ydor.org website. See:
 ## Top navigation bar
 
 * The top navigation bar can be edited in `_data/topnav.yml`.
+
+## PDFs
+
+* See the Author page to see how to use GoogleDocs to display a PDF
