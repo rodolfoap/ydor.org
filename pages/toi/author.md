@@ -9,10 +9,10 @@ folder: toi
 tags: [toi]
 ---
 
-## About the author
+## Rodolfo Alcazar Portillo
 
-My name is Rodolfo Alcazar Portillo, born in Bolivia, currently living in France. Worked on multiple fields (independent researcher, musician with 30 years of professional experience, systems architect with 25 years of professional experience). My main interest is developing a conceptual thinking framework to save the planet. That, because my research shows that all natural systems are logically coherent and consistent: acting wise, ecologically, generating growth, while decreasing poverty. Nature is essentially what we perceive as logical rules, and life persists only where no logical incoherences exist.
+Born in Bolivia, currently living in France. Worked on multiple fields (independent researcher, musician with 30 years of professional experience, systems architect with 25 years of professional experience). Main interest is developing a conceptual thinking framework to save the planet. That, because my research shows that all natural systems are logically coherent and consistent: acting wise, ecologically, generating growth, while decreasing poverty. Nature is essentially what we perceive as logical rules, and life persists only where no logical incoherences exist.
 
-* [https://ydor.org](https://ydor.org)
-* [https://www.linkedin.com/in/rodolfoap](https://www.linkedin.com/in/rodolfoap)
-* [https://github.com/rodolfoap](https://github.com/rodolfoap)
+* Main site: [https://ydor.org](https://ydor.org)
+* Linkedin: [https://www.linkedin.com/in/rodolfoap](https://www.linkedin.com/in/rodolfoap)
+* Programming: [https://github.com/rodolfoap](https://github.com/rodolfoap)
