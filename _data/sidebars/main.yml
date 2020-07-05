@@ -42,15 +42,10 @@ entries:
       url: /blog.html
       output: web, pdf
 
-  - title: Books
-    output: web, pdf
-    folderitems:
-
-    - title: Theory Of Interaction
-      url: /book_toi.html
+    - title: Books
+      url: /books.html
       output: web, pdf
 
-    - title: El Ciclo YDOR
-      url: /book_ydor.html
+    - title: About the author
+      url: /author.html
       output: web, pdf
-

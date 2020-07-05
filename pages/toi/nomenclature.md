@@ -8,7 +8,7 @@ toc: false
 folder: toi
 tags: [toi]
 ---
-### Taken from the book...
+## Taken from the book...
 
 * Chaos: Lack of interaction between entities.
 * Content: Value (on ideal systems) or matter (in nature) that is transferred from one entity to another in order to interact.

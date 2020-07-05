@@ -3,7 +3,7 @@ execute(){
 }
 case "$1" in
 	e)
-		vi -p pages/main.md pages/toi/{paradigms,basics,notes,nomenclature,applications,faq}.md _data/sidebars/main.yml _data/topnav.yml
+		vi -p pages/main.md pages/toi/{paradigms,basics,notes,nomenclature,applications,faq,books,author}.md _data/sidebars/main.yml _data/topnav.yml
 	;;
 	""|*)
 		execute
