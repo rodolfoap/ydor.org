@@ -27,3 +27,7 @@ Ydor.org website. See:
 ## PDFs
 
 * See the Author page to see how to use GoogleDocs to display a PDF
+
+## Layouts
+
+* See https://jekyllrb.com/docs/step-by-step/04-layouts/
