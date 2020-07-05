@@ -10,9 +10,9 @@ tags: [toi]
 ---
 ### Why interaction?
 
-Seems pretty obvious, but you are where you are because of all your past interactions. Gandhi, Pelé, Elvis, Mother Theresa have become theirselves because they have learned particular forms of interaction in childhood and applied that knowledge in their lifes. Have we ever tried to understand something so obvious as interaction? Amazingly... never. We've studied applied interaction on some fields, but never as a matter itself.
+Seems pretty obvious, but you are where you are because of all your past interactions. Gandhi, Pelé, Elvis, Mother Theresa have become themselves because they have learned particular forms of interaction in childhood and applied that knowledge in their lifes. Have we ever tried to understand something so obvious as interaction? Amazingly... never. We've studied applied interaction on some fields, but never as a matter itself.
 
-We learn to interact since childhood. We learn millions of forms of interactions, from the easily perceptible interactions with our mothers to the mysterious cellular interactions of our body with the external world. Therefore our knowledge of interaction is subject to several preexistent ideas. Moreover, it is difficult to change.
+We learn to interact since childhood. We learn millions of forms of interactions, from the easily perceptible interactions with our mothers to the mysterious cellular interactions of our body with the external world. Therefore our knowledge of interaction is subject to several pre existent ideas. Moreover, it is difficult to change.
 
 ### How to start?
 

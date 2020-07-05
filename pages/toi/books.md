@@ -19,12 +19,12 @@ The downloadable version does not include some sections. Please consider buying 
 
 ### PDF and Paper prints
 
-* [PDF Edition on Google Play](https://play.google.com/store/books/details?id=WdamBgAAQBAJ)
-* [PDF Edition on Google Books](http://books.google.com/books/about?id=WdamBgAAQBAJ)
-* [Printed edition on Amazon](https://www.amazon.fr/Theory-Interaction-Rodolfo-Alcazar-Portillo/dp/8461738772)
+* [PDF Edition on Google Play](https://play.google.com/store/books/details?id=WdamBgAAQBAJ){:target="blank"}
+* [PDF Edition on Google Books](http://books.google.com/books/about?id=WdamBgAAQBAJ){:target="blank"}
+* [Printed edition on Amazon](https://www.amazon.fr/Theory-Interaction-Rodolfo-Alcazar-Portillo/dp/8461738772){:target="blank"}
 
 ## El Ciclo YDOR
 
 This is a previous book, which is in fact a set of applications of the Theory of Interaction to the economic, social and personal domains. This book provided the theoretical framework to develop the Theory of Interaction book.
 
-* [Printed edition on Amazon (spanish)](https://www.amazon.fr/Ciclo-Spanish-Rodolfo-Alc%C3%A1zar-Portillo-ebook/dp/B008AQGB7W)
+* [Printed edition on Amazon (spanish)](https://www.amazon.fr/Ciclo-Spanish-Rodolfo-Alc%C3%A1zar-Portillo-ebook/dp/B008AQGB7W){:target="blank"}
