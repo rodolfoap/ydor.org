@@ -30,7 +30,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 feedback_subject_line: Jekyll documentation theme
@@ -94,11 +94,6 @@ defaults:
 
 sidebars:
 - main
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
 # the description is used in the feed.xml file
 description: "You are visiting the website of the book Theory of Interaction (TOI). The book presents the basic principles of _interaction_, something that Ludwig Von Bertalanffy, a remarkable contributor to the General Systems Theory (GST), defined as the basic problem in all fields."
