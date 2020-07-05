@@ -10,6 +10,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Overview
+      url: /index.html
+      output: web, pdf
+
     - title: Paradigms to break before denial...
       url: /paradigms.html
       output: web, pdf

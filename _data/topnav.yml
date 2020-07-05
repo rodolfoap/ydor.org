@@ -5,8 +5,7 @@ topnav:
   items:
     - title: Main Page
       url: /index.html
-    - title: GitHub
-      external_url: https://github.com/rodolfoap
     - title: Blog
       url: /blog
-
+#   - title: GitHub
+#     external_url: https://github.com/rodolfoap

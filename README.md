@@ -19,3 +19,7 @@ Ydor.org website. See:
 * Creating a page implies:
 	1. Creating the page (see `pages/help.md`)
 	2. Creating a permalink (check the permalink on `head pages/help.md`, which will be accessible @ /help)
+
+## Top navigation bar
+
+* The top navigation bar can be edited in `_data/topnav.yml`.

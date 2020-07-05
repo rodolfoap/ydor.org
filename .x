@@ -1,9 +1,10 @@
 execute(){
-	docker-compose up
+	docker ps --format '{{.Names}}'|egrep '^ydororg' &> /dev/null || docker-compose up
 }
 case "$1" in
 	e)
-		vi _config.yml
+		grep 'url.*html' _data/sidebars/main.yml|sed -r 's:.*/(.*).html:\1:' > .pages
+		vi -p $(sort .pages) _data/sidebars/main.yml _data/topnav.yml
 	;;
 	""|*)
 		execute
